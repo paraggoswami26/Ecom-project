@@ -35,6 +35,9 @@ height: 100%;
              <li>
                 <a class="nav-link active" aria-current="page" href="#">Contact-Us</a>
              </li>
+             <li>
+              <a class="nav-link active" aria-current="page" href="#">Service</a>
+           </li>
            
               
             </ul>
